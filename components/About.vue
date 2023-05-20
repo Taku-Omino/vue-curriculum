@@ -90,6 +90,22 @@ export default {
     border-radius: 15px;
     object-fit: cover;
   }
+  .imgFirst {
+    width: 55%;
+    margin-right: 5%;
+  }
+  .imgSecond {
+    width: 40%;
+  }
+  .imgThird {
+    width: 40%;
+    margin-right: 5%;
+    margin-top: 40px;
+  }
+  .imgForth {
+    width: 55%;
+    margin-top: 40px;
+  }
 }
 
 @media screen and (max-width: 795px) {

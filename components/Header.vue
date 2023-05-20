@@ -7,12 +7,8 @@
         <ul>
           <li>contact</li>
           <li>access</li>
-          <li>
-            <router-link to="/about" class="router-link">about</router-link>
-          </li>
-          <li>
-            <router-link to="/" class="router-link">home</router-link>
-          </li>
+          <li>about</li>
+          <li>home</li>
         </ul>
       </div>
     </div>
